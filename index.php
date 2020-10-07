@@ -74,7 +74,7 @@ session_start();
                 }
                 ?>
             }
-            //Logger ut brukeren fra google på siden, men er ikke en fullverdig utlogging før brukeren logger ut av google kontoen på browseren på google.com
+            //Logger ut brukeren fra google på siden
             function signOut(){
                 var auth2 = gapi.auth2.getAuthInstance();
                 auth2.signOut().then(function(){
