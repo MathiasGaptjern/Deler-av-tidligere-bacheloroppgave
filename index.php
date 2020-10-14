@@ -6,7 +6,7 @@ session_start();
     <head>
         <title>Innlogging</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-        <meta name="google-signin-client_id" content="394952128275-ric3p6qtai6jkav5adpc4449scev1726.apps.googleusercontent.com">
+        <meta name="google-signin-client_id" content="21312345454545223333332v22311.apps.googleusercontent.com">
         <script src="https://apis.google.com/js/platform.js" async defer></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <style>
